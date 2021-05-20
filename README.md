@@ -19,8 +19,8 @@
 Just Put any PlaylistID in the Playlist.py file at line 24 and run the code to check the duration of the playlist.
 
 **How to find the playlistID from any youtube video link:**<br>
-Everything written after list= is the playlistID. For example if a youtube video link is given as below : 
-https://www.youtube.com/watch?v=knfrxj0T5NY&list=PLC1og_v3eb4juFD_2YcJt2nDhytHNzhRU
+Everything written after list= is the playlistID. For example if a youtube video link is given as below :<br> 
+https://www.youtube.com/watch?v=knfrxj0T5NY&list=PLC1og_v3eb4juFD_2YcJt2nDhytHNzhRU <br>
 Then the playlistID would be "PLC1og_v3eb4juFD_2YcJt2nDhytHNzhRU"
 
 
